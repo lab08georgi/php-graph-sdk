@@ -1,5 +1,5 @@
 {
-    "name": "facebook/graph-sdk",
+    "name": "lab08georgi/php-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
